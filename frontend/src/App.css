@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image: url('../public/bg.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  box-shadow: 0 0 500px lightpink inset;
+}
+/* 
+.start-section {
+  background-color: lightcyan;
+  padding: 25px;
+  border-radius: 10px;
+} */
+
+h1 {
+  font-size: 3rem;
+  color: lightcoral;
+  margin-bottom: 4rem;
+  background-color: lightcyan;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+button {
+  border: 1px lightcyan;
+  color: lightcoral;
+  cursor: pointer;
+}
+
+button.start {
+  text-transform: uppercase;
+  font-weight: 800;
+  padding: 1.5rem 2rem;
+  letter-spacing: 2px;
+  font-size: 25px;
+  border-radius: 10px;
+}
+
+button.reset {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  border-radius: 50%;
+}
+
+.game-block {
+  gap: 2rem;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+}
+
+/* .game-section {
+  display: flex;
+} */
+
+.card {
+  cursor: pointer;
+  width: 140px;
+  height: 210px;
+  background-color: lightyellow;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+  transition: transform 0.7s;
+}
+
+.card.matched {
+  transform: rotateY(180deg);
+}
+
+.card img,
+.card png {
+  width: 70%;
+  position: absolute;
+  backface-visibility: hidden;
+  pointer-events: none;
+}
+
+.card png {
+  width: 100px;
+  height: 100px;
+  opacity: 0.3;
+}
