@@ -12,12 +12,27 @@
 
 ## ✨ Funcionalidades
 
+<h4>Jogabilidade </h4>
 <ul>
-  <li>[X] jogabilidade </li>
-  <li>[ ] </li>
-  <li>[ ] </li>
-  <li>[ ] </li>
-  <li>[ ] (...)</li>
+  <li>[X] começar jogo</li>
+  <li>[X] reiniciar jogo</li>
+  <li>[ ] temporizador</li>
+  <li>[ ] pontuação</li>
+  <li>[ ] escolher nível</li>
+</ul>
+<h4>Páginas </h4>
+<ul>
+  <li>[X] tela inicial</li>
+  <li>[ ] tela de login</li>
+  <li>[ ] tela de registro</li>
+  <li>[ ] "como"</li>
+</ul>
+<h4>Para o Jogador </h4>
+<ul>
+  <li>[ ] info do jogador</li>
+  <li>[ ] logout</li>
+  <li>[ ] records</li>
+  <li>[ ] editar info</li>
 </ul>
  
 ## ✨ Layout da Aplicação
