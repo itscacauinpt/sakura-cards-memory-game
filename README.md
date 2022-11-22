@@ -38,11 +38,16 @@
 ## ✨ Layout da Aplicação
   > Link deploy: (...)
 (...)
+
+## ✨ Como rodar localmente
+<ul>
+  <li>Execute os seguintes comandos no terminal;</li>
+  <li><code>npm run prestart ;</code></li>
+  <li><code>npm run start ;</code></li>
+  <li>Abra seu browser <code>http://localhost:3000/</code> .</li>
+</ul>
   
 ## ✨ Tecnologias
-(...)
-  
-## ✨ Como rodar localmente
 (...)
 
 <hr/>
