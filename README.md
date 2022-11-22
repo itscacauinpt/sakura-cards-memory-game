@@ -33,6 +33,6 @@
 <hr/>
 
 <div align="left">
-  <p>The <a href="">MIT License</a> (MIT)</p>
+  <p>The <a href="#">MIT License</a> (MIT)</p>
   <p>Copyright :copyright: Ano - Titulo do Projeto</p>
 </div>
