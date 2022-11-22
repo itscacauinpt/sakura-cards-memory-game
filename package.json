@@ -1,13 +1,14 @@
 {
   "name": "a-simple-memory-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jogo da memória, tema Sakura CardCaptor - Aplicação Fullstack",
   "main": "index.js",
+  "homepage": "https://github.com/itscacauinpt/sakura-cardcaptor-memory-game#readme",
   "scripts": {
     "prestart": "(cd ./app/frontend && npm install && cd ../backend && npm install)",
     "start": "(cd ./app/frontend && npm start)"
   },
   "keywords": [],
-  "author": "",
+  "author": "itscacauinot",
   "license": "ISC"
 }
