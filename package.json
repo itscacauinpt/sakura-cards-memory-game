@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prestart": "(cd ./app/frontend && npm install && cd ../backend && npm install)",
+    "start": "(cd ./app/frontend && npm start)"
   },
   "keywords": [],
   "author": "",
