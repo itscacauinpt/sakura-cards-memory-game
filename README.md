@@ -25,7 +25,6 @@
   <li>[X] tela inicial</li>
   <li>[ ] tela de login</li>
   <li>[ ] tela de registro</li>
-  <li>[ ] "como"</li>
 </ul>
 <h4>Para o Jogador </h4>
 <ul>
@@ -37,7 +36,7 @@
  
 ## ✨ Layout da Aplicação
   > Link deploy: (...)
-(...)
+  
 
 ## ✨ Como rodar localmente
 <ul>
