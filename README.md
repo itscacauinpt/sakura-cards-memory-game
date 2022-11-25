@@ -54,5 +54,5 @@
 
 <div align="left">
   <p>The <a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game">MIT License</a> (MIT)</p>
-  <p>Copyright :copyright: Ano - Titulo do Projeto</p>
+  <p>Copyright :copyright: 2022 - Memory Game - Sakura Cardcaptor</p>
 </div>
