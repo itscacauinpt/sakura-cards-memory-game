@@ -3,7 +3,7 @@
 
 > Status: finished - March/2023 :heavy_check_mark:
 >
-> Access page ""
+> Access page <a href="https://sakura-memory-game.vercel.app">sakura-memory-game.vercel.app</a>
 
 ##### _Release! :cherry_blossom:_
 
@@ -21,9 +21,8 @@ _Verify all dependencies and libraries to ensure smooth functioning of the appli
 
 - The app will start at <code>http://localhost:3000/</code> in your browser.
 
-#### :cherry_blossom: Layout
-> Access page: (...)
 <div align="center">
+<h3>:cherry_blossom: Layout :cherry_blossom:</h3>
   <img width="820px" src="https://github.com/itscacauinpt/sakura-memorygame/blob/main-prod/assets/sakura-menu.png"/>
   <hr/>
   <img width="820px" src="https://github.com/itscacauinpt/sakura-memorygame/blob/main-prod/assets/sakura-game.png"/>
