@@ -1,58 +1,30 @@
-:exclamation::warning: Readme em construção :warning::exclamation:
+# :cherry_blossom: Sakura CardCaptor Memory Game :cherry_blossom:
+<img src="https://media.giphy.com/media/MLzRm5xIrcugo/giphy.gif" alt="sakura from sakura cardcaptor" width="320px" align="right">
 
-<img src="https://i.pinimg.com/originals/77/79/4c/77794ca1db8c88fd0cf706c06884fb76.gif" alt="kero" width="210px" align="right">
+> Status: finished - March/2023 :heavy_check_mark:
+>
+> Access page ""
 
-# Sakura CardCaptor Memory Game
+##### _Release! :cherry_blossom:_
 
-### Jogo da memória
+In this project, a web application was built based on a Memory Game.
 
-> Status do Projeto: em andamento :warning::dizzy:
+The application is a single-page app themed around Sakura CardCaptor, using the React.js framework.
 
-<hr/>
+#### :cherry_blossom: Running locally
 
-## ✨ Funcionalidades
+_Verify all dependencies and libraries to ensure smooth functioning of the application_
 
-<h4>Jogabilidade </h4>
-<ul>
-  <li>[X] começar jogo</li>
-  <li>[X] reiniciar jogo</li>
-  <li>[ ] temporizador</li>
-  <li>[ ] pontuação</li>
-  <li>[ ] escolher nível</li>
-</ul>
-<h4>Páginas </h4>
-<ul>
-  <li>[X] tela inicial</li>
-  <li>[ ] tela de login</li>
-  <li>[ ] tela de registro</li>
-  <li>[ ] componentizar páginas</li>
-</ul>
-<h4>Para o Jogador </h4>
-<ul>
-  <li>[ ] info do jogador</li>
-  <li>[ ] logout</li>
-  <li>[ ] records</li>
-  <li>[ ] editar info</li>
-</ul>
- 
-## ✨ Layout da Aplicação
-  > Link deploy: (...)
-  
+> You'll need to have installed <a href="https://nodejs.org/en/download/">Node.js</a> :warning: locally (in your machine) to run the application.
 
-## ✨ Como rodar localmente
-<ul>
-  <li>Execute os seguintes comandos no terminal;</li>
-  <li><code>npm run prestart ;</code></li>
-  <li><code>npm run start ;</code></li>
-  <li>Abra seu browser <code>http://localhost:3000/</code> .</li>
-</ul>
-  
-## ✨ Tecnologias
-(...)
+- Run the following command in the terminal <code>npm run start</code>
 
-<hr/>
+- The app will start at <code>http://localhost:3000/</code> in your browser.
 
-<div align="left">
-  <p>The <a href="https://github.com/itscacauinpt/sakura-cardcaptor-memory-game">MIT License</a> (MIT)</p>
-  <p>Copyright :copyright: 2022 - Memory Game - Sakura Cardcaptor</p>
+#### :cherry_blossom: Layout
+> Access page: (...)
+<img align="center" width="980px" src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/sakura-memory-game-cover.png"/>
+
+<div align="center">
+  :cherry_blossom: Copyright :copyright: <a href="https://github.com/itscacauinpt/sakura-memory-game/blob/main/LICENSE.md">License<a/>  2023 - Caeser Cipher :cherry_blossom:
 </div>
