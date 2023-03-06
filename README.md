@@ -26,5 +26,5 @@ _Verify all dependencies and libraries to ensure smooth functioning of the appli
 <img align="center" width="980px" src="https://raw.githubusercontent.com/itscacauinpt/itscacauinpt/media/sakura-memory-game-cover.png"/>
 
 <div align="center">
-  :cherry_blossom: Copyright :copyright: <a href="https://github.com/itscacauinpt/sakura-memory-game/blob/main/LICENSE.md">License<a/>  2023 - Caeser Cipher :cherry_blossom:
+  :cherry_blossom: Copyright :copyright: <a href="https://github.com/itscacauinpt/sakura-memorygame/blob/main/LICENSE.md">License<a/>  2023 - Caeser Cipher :cherry_blossom:
 </div>
